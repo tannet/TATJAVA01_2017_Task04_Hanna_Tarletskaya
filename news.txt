@@ -1,0 +1,12 @@
+Film / The Girl on the Train / Tate Taylor / 2016 / 6.6
+Film / 12 Angry Men / Sidney Lumet / 1957 / 8.9
+Film / Fight Club / David Fincher / 1999 / 8.8
+Film / Gone Girl / David Fincher / 2014 / 8.1
+Book / A Tale of Two Cities / Charles Dickens / 1859 / History
+Book / The Picture of Dorian Gray / Oscar Wilde / 1890 / Philfiction
+Book / The Sign of Four / Arthur Conan Doyle / 1890 / Detective
+Book / The Girl on the Train / Paula Hawkins / 2015 / Detective
+Book / The Dark Tower / Stephen King / 1982 / Fantasy
+Disk / Lemonade / Beyonce / 2016 / 45:49
+Disk / Isolate and Medicate / Seether / 2014 / 38:48
+Disk / Let It Be / Beatles / 1970 / 34:58
