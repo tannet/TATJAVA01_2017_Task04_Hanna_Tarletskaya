@@ -81,6 +81,7 @@ public final class ConnectionPool {
 			closeConnectionQueue(givenAwayConQueue);
 			closeConnectionQueue(connectionQueue);
 		} catch (SQLException e) {
+			System.out.println("Connection can't be cleaned.");
 		}
 	}
 
